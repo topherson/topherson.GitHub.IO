@@ -13,12 +13,12 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bath & Hammondsport RR # the main title
+title: Christopher Thompson # the main title
 
 tagline: The Champagne Route # it will display as the sub-title
 
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Christopher Thompson
-  email: example@domain.com # change to your email address
+  email: bristly_07channel@icloud.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/topherson # change to your twitter homepage
